@@ -22,7 +22,7 @@ Absolutely no racism or sexism will be tolerated, discussion is one thing, outri
 ------------------------
 **Submissions - Applications**
 ------------------------
-Well known builder? You can apply for the Trusted/Verified position allowing free editing/uploading without approval, please drop us a line at with the subject 'Trusted Creator' to swcvr.submit@gmail.com with your SWCH Link & Discord name, and one of our moderation team will reach out.
+Well known builder? You can apply for the Trusted/Verified position allowing free editing/uploading without approval, please drop us a line with the subject 'Trusted Creator' to swcvr.submit@gmail.com with your SWCH Link & Discord name, and one of our moderation team will reach out.
 
 Do you want to submit a build, group of builds or even a WiP? Send us an email at swcvr.submit@gmail.com with the subject 'SWCVR Submissions', including your project file [.xml format, found in %APPDATA%\Stormworks\Data\vehicles], Your Creator/Company name, a short description of the vehicle, categorical classification (plane, boat, train, subassembly, weapon system, etc), A discord name or SWCH Link (optional) and we will review your entry, submit it to the appropriate category, and will respond to your email with a confirmation.
 
